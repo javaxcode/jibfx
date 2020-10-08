@@ -90,7 +90,7 @@
                             <a href="#features" class="nav-link">Features</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#services" class="nav-link">Services</a>
+                            <a href="#services" class="nav-link">Layanan</a>
                         </li>
                         <li class="nav-item">
                             <a href="#demo" class="nav-link">Demos</a>
