@@ -124,8 +124,8 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6 col-sm-6">
                                 <div class="home-title text-white">
-                                    <h5 class="mb-3 text-white-50">Discover Adminto Today</h5>
-                                    <h2 class="mb-4">Make your Site Amazing & Unique with Adminto</h2>
+                                    <h5 class="mb-3 text-white-50">JIBFX</h5>
+                                    <h2 class="mb-4">JIBFX</h2>
                                     <p class="text-white-50 home-desc font-16 mb-5">Adminto is a fully featured premium Landing template built on top of awesome Bootstrap 4.3.1, modern web technology HTML5, CSS3 and jQuery. </p>
                                     <div class="watch-video mt-5">
                                         <a href="#" class="btn btn-custom mr-4">Get Started <i class="mdi mdi-chevron-right ml-1"></i></a>
