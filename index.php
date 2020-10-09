@@ -128,7 +128,7 @@
                                     <h2 class="mb-4">JIBFX hadir dengan fasilitas Copy Trade dengan sistem Holy Grail.</h2>
                                     <p class="text-white-50 home-desc font-16 mb-5">Solusi para Trader, untuk mempermudah dalam bertransaksi dan mendapatkan profit konsisten. </p>
                                     <div class="watch-video mt-5">
-                                        <a href="#" class="btn btn-custom mr-4" data-toggle="modal" data-target="#myLogin">Login <i class="mdi mdi-chevron-right ml-1"></i></a>
+                                        <a href="#" class="btn btn-custom mr-4" data-toggle="modal" data-target="#myLogin">Login <!-- <i class="mdi mdi-chevron-right ml-1"></i> --></a>
                                         <!-- <a href="http://vimeo.com/99025203" class="video-play-icon text-white"><i class="mdi mdi-play play-icon-circle mr-2"></i> <span>Watch The Video</span></a> -->
                                     </div>
     
