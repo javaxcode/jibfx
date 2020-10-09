@@ -74,8 +74,8 @@
             <div class="container-fluid">
                 <!-- LOGO -->
                 <a class="logo text-uppercase" href="index.html">
-                    <img src="images/logo-light.png" alt="" class="logo-light" height="18" />
-                    <img src="images/logo-dark.png" alt="" class="logo-dark" height="18" />
+                    <img src="images/jib-light.png" alt="" class="logo-light" height="50" />
+                    <img src="images/jib-dark.png" alt="" class="logo-dark" height="50" />
                 </a>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
